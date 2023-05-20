@@ -34,7 +34,7 @@ module.exports = () => {
         short_name: 'J.A.T.E',
         description: 'create notes wiht or without internet connection',
         background_color: '#225ca3',
-        theme_color: '225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
